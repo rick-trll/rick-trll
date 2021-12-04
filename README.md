@@ -2,7 +2,7 @@
 - ❤️ I’m interested in programmed 👨‍💻
 - 🌱 I’m currently learning C# and C++📎
 - 💞️ I’m looking to collaborate on None(LOL) 😏
-- 📫 How to reach me henry8989@qq.com
+- 📫 How to reach me henry8989@qq.com 🐧
 - and Do you know how to do UWP?🤨
 
 <!---
